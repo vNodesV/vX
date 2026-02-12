@@ -1,0 +1,20 @@
+{
+  "chain_name": "meme-offline-0",
+  "api": ["http://10.0.0.59:1317"],
+  "rpc": ["http://10.0.0.59:26657"],
+  "coingecko": "",
+  "snapshot_provider": "",
+  "sdk_version": "0.47.1",
+  "coin_type": "118",
+  "min_tx_fee": "500",
+  "addr_prefix": "meme",
+  "assets": [
+    {
+      "base": "umeme",
+      "symbol": "MEME",
+      "exponent": "6",
+      "coingecko_id": "",
+      "logo": ""
+    }
+  ]
+}
